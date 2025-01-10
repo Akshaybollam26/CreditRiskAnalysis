@@ -22,8 +22,8 @@ To run this project, ensure you have the following installed:
 - Required Python Libraries:
   - pandas
   - numpy
-  - matplotlib (if visualizations are included)
-  - Any additional dependencies as specified in the notebook.
+  - matplotlib
+  - seaborn
 
 ---
 
